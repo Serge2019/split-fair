@@ -1,4 +1,4 @@
-# Shared Expenses Calculator
+# **Split-fair** Shared Expenses Calculator
 
 ## Project Description
 
