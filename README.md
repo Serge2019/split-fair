@@ -23,7 +23,9 @@ Detailed documentation on project requirements and technical details is availabl
 
 ## Deployment
 
-The application is available at: [https://split-fair.neocities.org/](https://split-fair.neocities.org/)
+The application is available at:
+- [https://split-fair.netlify.app/](https://split-fair.netlify.app/)
+- [https://split-fair.neocities.org/](https://split-fair.neocities.org/)
 
 ## License
 
