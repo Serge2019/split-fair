@@ -1,4 +1,4 @@
-# Documentation for the "Shared Expenses Calculator" Project
+# Documentation for the "Split-fair - shared expenses calculator" Project
 
 ## Introduction
 
