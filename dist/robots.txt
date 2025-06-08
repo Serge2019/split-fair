@@ -1,0 +1,20 @@
+# Allow indexing for all search engine robots
+User-agent: *
+Disallow: /admin/
+Disallow: /*?s=
+Disallow: /*?p=
+
+# Additional rules for Yandex
+User-agent: Yandex
+Disallow: /admin/
+Disallow: /*?s=
+Disallow: /*?p=
+
+# Additional rules for Googlebot
+User-agent: Googlebot
+Disallow: /admin/
+Disallow: /*?s=
+Disallow: /*?p=
+
+# Specify the location of the sitemap
+Sitemap: https://split-fair.netlify.app/sitemap.xml
